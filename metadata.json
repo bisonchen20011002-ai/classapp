@@ -1,0 +1,6 @@
+{
+  "name": "點名分組室 — 課堂隨機抽籤與自動分組工具",
+  "description": "專為教師設計的課堂名單管理工具，支援 CSV 上傳與名單貼上、動畫音效隨機抽籤（可設定是否重複），以及視覺化自動分組與 Excel 成績表匯出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
